@@ -3,3 +3,4 @@
 
 df -Th /opt
 mkdir
+ls -ltrh .
